@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "a24e19ead04feb3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "85cf0d9aa5dd2648",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3a10c751da4c91e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TSM/TSM_master_profile.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TSM_master_profile"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b109d144f9f89d7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d373a70c2a85fae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68342abc4b2cab9e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f8dfc6b2792b2c25",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a88d8d5376d45b88",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "083568749216df22",
+    "type": "split",
+    "children": [
+      {
+        "id": "7305274242343ce4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9dcf92d7b2345f56",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TSM/TSM_master_profile.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for TSM_master_profile"
+            }
+          },
+          {
+            "id": "7a4f74cde42ce8fd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TSM/TSM_master_profile.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from TSM_master_profile"
+            }
+          },
+          {
+            "id": "b9dfc8daae0996b1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cb7b5dcdb810b59e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "aee2d251d1d6bcd1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TSM/TSM_master_profile.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of TSM_master_profile"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "68342abc4b2cab9e",
+  "lastOpenFiles": [
+    "INTC/INTC_master_profile.md",
+    "INTC/2026-04-09_News_Google_Collaboration.md",
+    "INTC/INTC_2025_Q4_Earnings.md",
+    "INTC/2026-04-09_News_Google_Collaboration.pdf",
+    "INTC/INTC_2025_Q4_Earnings.pdf",
+    "INTC/2026-01-22_News_Q4_Earnings_Presentation.pdf",
+    "INTC/INTC_2025_10K_Annual.pdf",
+    "INTC",
+    "2026-04-09_Intel_and_Google_Deepen_Collaboration_to_Advance_1766.pdf",
+    "2026-04-09_Intel_and_Google_Deepen_Collaboration_to_Advance_1766.pdf.crdownload",
+    "intel 10 K.pdf",
+    "intel 10 K.pdf.crdownload",
+    "Q4 2025 Earnings Deck.pdf",
+    "ASML/ASML_2026_Q1_Earnings.md",
+    "AVGO/AVGO_master_profile.md",
+    "AAPL/AAPL_master_profile.md",
+    "GOOGL/GOOGL_2025_Q4_Earnings.md",
+    "TSM/TSM_2026_Q1_Earnings.md",
+    "ASML.md",
+    "Apple Inc. (AAPL) Q1 FY2026  earnings call transcript.md",
+    "NVDA/NVDA_2026_Q4_Earnings.md",
+    "GOOGL/GOOGL_master_profile.md",
+    "AAPL/AAPL_2026_Q1_Earnings.md",
+    "AAPL/2026-02-01_News_Q1_Earnings_Transcript.md",
+    "Tim Cook to become Apple Executive Chairman John Ternus to become Apple CEO.md",
+    "MSFT/MSFT_master_profile.md",
+    "ASML/ASML_master_profile.md",
+    "AAPL/AAPL_2025_10K_Annual.md",
+    "TSM/TSM_master_profile.md",
+    "NVDA/NVDA_master_profile.md",
+    "AAPL/2026-04-19_News_CEO_Succession.md",
+    "AAPL/_master_profile.md",
+    "MSFT.md",
+    "NVDA/_master_profile.md",
+    "TSM/_master_profile.md",
+    "AAPL/2025_10K_Annual.md"
+  ]
+}
